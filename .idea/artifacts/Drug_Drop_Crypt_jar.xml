@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Drug&amp;Drop&amp;Crypt:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Drug_Drop_Crypt_jar</output-path>
+    <root id="archive" name="Drug&amp;Drop&amp;Crypt.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/out/artifacts/Drug_Drop_Crypt_jar/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Drug&amp;Drop&amp;Crypt" />
+    </root>
+  </artifact>
+</component>
